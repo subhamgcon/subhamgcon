@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/subhamgcon" target="blank"><img src="https://img.shields.io/twitter/follow/subhamgcon?logo=twitter&style=for-the-badge" alt="subhamgcon" /></a> </p>
 
-- 🌱 I’m currently learning **Android, Kotlin**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Python, Java and Open source Collaboration**
 
