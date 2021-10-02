@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Subham Ghosh</h1>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I’m Subham
+
 <h3 align="center">👨🏽‍🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.</h3>
 
 <p align="left"> <a href="https://twitter.com/subhamgcon" target="blank"><img src="https://img.shields.io/twitter/follow/subhamgcon?logo=twitter&style=for-the-badge" alt="subhamgcon" /></a> </p>
