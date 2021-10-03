@@ -1,16 +1,21 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I’m Subham
 
-<h3 align="center">👨🏽‍🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.</h3>
 
-<p align="left"> <a href="https://twitter.com/subhamgcon" target="blank"><img src="https://img.shields.io/twitter/follow/subhamgcon?logo=twitter&style=for-the-badge" alt="subhamgcon" /></a> </p>
+<a href="https://www.linkedin.com/in/hellosubham/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/subhamgcon">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:subhamgcon@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+</br>
 
-- 🌱 I’m currently learning **Android Development**
-
-- 💬 Ask me about **Python, Java and Open source Collaboration**
-
-- 📫 How to reach me **subhamgcon@gmail.com**
-
-- ⚡ Fun fact **I love fall season**
+### About Me 🚀
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
+👨‍💻  I am passionate about Android, Web Dev, Machine Learning, Cloud & I enjoy learning new things. </br>
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
