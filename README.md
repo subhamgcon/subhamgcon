@@ -3,7 +3,7 @@
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Web Dev, Machine Learning, Cloud, Kubernetes & I enjoy learning new things and collaborating with others. </br>
+👨‍💻  I am passionate about Web Development, DevOps and Cloud & I enjoy learning new things and collaborating with others. </br>
   
 
 <h3 align="left">Connect with me:</h3>
