@@ -2,8 +2,8 @@
 
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about DevOps and Cloud & I enjoy learning new things and collaborating with others. </br>
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.</br>
+👨‍💻  I am passionate about DevOps and Cloud & I enjoy learning new things and collaborating with others.</br>
 
 <p align="left"> <a href="https://twitter.com/subhamstwt" target="blank"><img src="https://img.shields.io/twitter/follow/subhamstwt?logo=twitter&style=for-the-badge" alt="subhamstwt" /></a> </p>
 
