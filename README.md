@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://subhamsblogs.hashnode.dev/](https://subhamsblogs.hashnode.dev/)
 
-- 💬 Ask me about **Python, Java and Open source Collaboration**
+- 💬 Ask me about **DevOps and Open source Collaboration**
 
 - 📫 How to reach me **subhamgcon@gmail.com**
 
