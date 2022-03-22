@@ -42,3 +42,9 @@
 
 <p><a href="https://www.buymeacoffee.com/subhamgcon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="subhamgcon" /></a></p><br><br>
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
