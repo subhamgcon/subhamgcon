@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **subhamgcon@gmail.com**
 
-- ⚡ Fun fact **I love fall season**
+- 🍁 Fun fact **I love fall season**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
