@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 📝 I regularly write articles on [https://subhamsblogs.hashnode.dev/](https://subhamsblogs.hashnode.dev/)
+- 📝 I regularly write articles on [https://subhamsblogs.hashnode.dev/](https://subhamghosh.xyz/)
 
 - 💬 Ask me about **DevOps and Open-source Collaboration**
 
