@@ -1,9 +1,4 @@
 
-![cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2](https://user-images.githubusercontent.com/74487802/219938694-727c13a6-be12-4505-9e27-bd97e3b65ec3.gif)
-
-
-
-
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I’m Subham
 
 
