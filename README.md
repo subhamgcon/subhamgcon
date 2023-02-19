@@ -3,8 +3,8 @@
 
 
 
-https://user-images.githubusercontent.com/74487802/219936305-f539270f-8657-477b-8337-f4e8801f488c.mp4
 
+![ezgif-5-5eb9ef8304](https://user-images.githubusercontent.com/74487802/219938314-249d4957-4b1f-4cd6-9699-85fc247f7782.gif)
 
 
 ### About Me 🚀
